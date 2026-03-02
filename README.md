@@ -73,12 +73,10 @@ Le conteneur permet d’exécuter directement le script de comparaison.
 
 ```bash 
 docker build -t dim_red_city .
-```
-
-```bash 
 docker run -p 4000:8080 -t dim_red_city
+docker tag imageID gimenezm/dim_red_city:1
+docker push gimenezm/dim_red_city:1
 ```
-
 Repository GitHub : https://github.com/pgassai/projet_final/
 DockerHub : [Lien à insérer]
 
