@@ -1,9 +1,9 @@
 
-title: "Projet Final – Réduction de Dimension & Docker"
+# title: "Projet Final – Réduction de Dimension & Docker"
 author: "GASSAI-LEPOMA Precy, GIMENEZ Marine, PICAVET Giovanni"
 
 
-# 📊 Contexte du projet
+## 📊 Contexte du projet
 
 Ce projet a pour objectif de simuler un projet collaboratif de data science en utilisant **Git/GitHub** pour gérer le développement via des branches, commits et fusions vers la branche principale `main`.
 
@@ -12,7 +12,7 @@ Une fois les contributions fusionnées, le projet est conteneurisé avec **Docke
 
 ---
 
-# 🎯 Objectifs
+## 🎯 Objectifs
 
 - Implémenter une méthode de réduction de dimension
 - Projeter les données en 2D
@@ -40,7 +40,7 @@ Dans chaque notebook :
 - Rédaction d’une courte observation sur la structure obtenue
 - Export des données réduites en 2D
 
-## Méthodes implémentées
+### Méthodes implémentées
 
 - PCA  
 - t-SNE  
@@ -48,7 +48,7 @@ Dans chaque notebook :
 
 ---
 
-# 📏 II. Comparaison des méthodes
+## 📏 II. Comparaison des méthodes
 
 Le script `evaluate.py` :
 
@@ -56,7 +56,7 @@ Le script `evaluate.py` :
 2. Calcule la métrique **trustworthiness**
 3. Compare les scores obtenus pour chaque méthode
 
-## 🔎 Trustworthiness
+### 🔎 Trustworthiness
 
 La trustworthiness mesure la capacité d’une méthode de réduction de dimension à préserver les relations de voisinage locales :
 
@@ -65,7 +65,7 @@ La trustworthiness mesure la capacité d’une méthode de réduction de dimensi
 
 ---
 
-# 🐳 III. Dockerisation
+## 🐳 III. Dockerisation
 
 Un `Dockerfile` est présent à la racine du projet.
 
