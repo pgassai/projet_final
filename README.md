@@ -71,12 +71,13 @@ Un `Dockerfile` est présent à la racine du projet.
 
 Le conteneur permet d’exécuter directement le script de comparaison.
 
+
 ```bash 
 docker build -t dim_red_city .
 docker run -p 4000:8080 -t dim_red_city
-docker tag imageID gimenezm/dim_red_city:1
+docker tag 94e2885ad1ba gimenezm/dim_red_city:1
 docker push gimenezm/dim_red_city:1
 ```
 Repository GitHub : https://github.com/pgassai/projet_final/
-DockerHub : [Lien à insérer]
+DockerHub : https://hub.docker.com/r/gimenezm/dim_red_city
 
