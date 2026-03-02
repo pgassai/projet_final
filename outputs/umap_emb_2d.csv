@@ -1,0 +1,301 @@
+UMAP_1,UMAP_2,city_name,country
+9.482239,2.2634525,Old Vista,Europe
+8.415506,1.5995624,Beachport,Europe
+8.973822,0.36757797,Valleyborough,Europe
+7.3718147,1.467021,City,Europe
+8.883045,-0.4102981,Falls,Europe
+9.443662,2.2743187,North Falls,Europe
+7.145752,1.3471897,Hillhaven,Europe
+8.444605,1.3434774,Gardenton,Europe
+10.497026,0.93092465,Springsville,Europe
+7.6435466,3.0521061,North Ridge,Europe
+6.6015606,3.2030194,Ridgeshire,Europe
+7.9830666,2.3193817,Forestville,Europe
+7.2856174,2.7967417,Garden,Europe
+5.539987,4.8363867,Bridge,Europe
+8.7499075,0.6519949,Port Bridge,Europe
+8.8819685,0.406448,Stone,Europe
+6.8937993,4.6026483,Riverburg,Europe
+6.2103934,2.936882,Gardenburg,Europe
+6.8134184,3.4661663,Pointborough,Europe
+6.1426954,2.5569587,Parkland,Europe
+6.2907677,3.2243474,Cityport,Europe
+7.2645745,1.63392,Cityhaven,Europe
+10.05673,0.9241227,San Wood,Europe
+4.1050887,3.8748436,Harborshire,Europe
+8.776963,-0.360287,East Valley,Europe
+6.366379,2.5625267,Valleyburg,Europe
+8.938679,-0.22810291,Point,Europe
+6.5919456,4.635742,Woodshire,Europe
+7.2027607,1.2048037,New Wood,Europe
+9.763827,2.018347,Port Beach,Europe
+6.4327536,3.8359752,Fallshaven,Europe
+7.821492,1.7956898,Vistaland,Europe
+9.950533,1.0539278,San Vista,Europe
+6.1597953,3.1923008,Bayport,Europe
+7.8309073,0.33122692,Field,Europe
+8.057725,2.627983,North Harbor,Europe
+6.7579203,4.798686,Forestshire,Europe
+6.421207,2.6807892,Springs,Europe
+6.25342,4.096606,Mount City,Europe
+9.879188,1.0111117,River,Europe
+7.0307984,2.4559717,Port Springs,Europe
+7.4489717,2.0525224,Hill,Europe
+9.416826,0.87440395,New Park,Europe
+7.791653,0.24818827,Lake Town,Europe
+7.203828,2.072902,Wood,Europe
+6.745634,3.6779237,Townland,Europe
+8.572953,0.045737132,Town,Europe
+8.247736,1.1985902,Woodland,Europe
+10.151197,1.0004885,Pointland,Europe
+9.651397,2.0759983,San Harbor,Europe
+6.0790935,3.5176966,Saint Falls,Europe
+9.11255,1.3672919,Fieldton,Europe
+7.439484,0.8834405,New Hill,Europe
+6.8313465,3.254017,Port Stone,Europe
+7.9829063,2.7296193,West Stone,Europe
+9.300107,0.84115154,Woodport,Europe
+4.8483324,3.5888782,Harborport,Europe
+7.1708817,2.570712,South Forest,Europe
+6.812853,3.4358857,Mount Valley,Europe
+9.108389,0.27235374,Bridgedale,Europe
+7.0992374,3.3243952,Pointshire,Asia
+6.0553017,8.017122,Forestdale,Asia
+5.1414733,7.116509,Woodburg,Asia
+5.963343,8.171579,North City,Asia
+5.680846,7.79902,Riverford,Asia
+5.562147,4.978061,Gardenborough,Asia
+5.6557064,5.2701383,San Point,Asia
+5.415547,6.92733,Saint Forest,Asia
+5.357266,6.7179527,Bay,Asia
+6.625749,6.6114893,Mount Ridge,Asia
+4.158585,5.6350765,Old Wood,Asia
+5.2974186,3.4318426,Old Springs,Asia
+5.9980507,4.644752,Ridgeford,Asia
+5.9592776,7.149082,Stoneland,Asia
+5.2650366,5.3096204,Forest,Asia
+6.946318,3.4281545,Springsdale,Asia
+5.800457,7.1138196,Lake Bay,Asia
+6.568367,7.1417994,Pointdale,Asia
+1.2588533,5.4132485,Park,Asia
+5.567158,4.909325,South Garden,Asia
+5.501118,7.598137,Parkville,Asia
+5.517471,5.9893484,Fallsborough,Asia
+5.8038673,7.0301185,Pointhaven,Asia
+5.609313,7.419578,Port Field,Asia
+5.901379,8.123368,Lake Hill,Asia
+5.82926,7.518691,Mount Hill,Asia
+5.761028,7.879166,Beach,Asia
+6.332854,7.4670553,Mount Field,Asia
+6.1353245,7.7522726,Harbor,Asia
+5.507423,5.6524715,Old Garden,Asia
+5.443606,6.8649726,Vista,Asia
+6.243453,7.403385,Townton,Asia
+5.968321,7.2647195,Mount Beach,Asia
+5.722888,7.550286,San Bay,Asia
+5.601489,5.347752,Port Harbor,Asia
+6.1021442,7.954834,Stoneton,Asia
+6.4479175,7.018134,Parkshire,Asia
+5.3991485,7.6922526,Pointford,Asia
+6.4401646,7.572519,Parkhaven,Asia
+5.589864,6.3951416,Port Falls,Asia
+5.3849397,5.573217,West Park,Asia
+3.9050732,3.9145577,Hilldale,Asia
+6.600263,3.1810446,Valleyford,Asia
+5.491743,6.582033,Stoneshire,Asia
+4.6219096,4.210464,Bridgeburg,Asia
+5.1821513,3.2999837,Mount Falls,Asia
+6.3343687,5.977057,New River,Asia
+6.165487,6.190196,Beachford,Asia
+6.1295495,7.3685007,Fallsville,Asia
+3.8322012,5.331768,West Bay,Asia
+6.043939,5.865949,Bayford,Asia
+6.2558584,6.4107113,Gardenford,Asia
+6.152882,7.988229,Woodhaven,Asia
+6.5740714,5.2118654,Port Wood,Asia
+5.7818327,4.824314,Cityville,Asia
+5.734667,5.1736536,Springsborough,Asia
+6.1965046,2.838871,Old River,Asia
+4.8990645,4.9368687,Bayshire,Asia
+4.716011,5.036912,Saint Field,Asia
+5.3170085,5.1302977,Stonedale,Asia
+5.8349338,7.7255116,Beachland,Asia
+6.431058,6.0439944,Forestborough,Asia
+6.3440886,6.6434383,Rivershire,Asia
+4.469583,5.361803,Pointport,Asia
+6.32606,5.124727,Fallsburg,Asia
+4.9311633,6.1651955,Gardenport,Asia
+6.790995,4.9952025,Ridgedale,Asia
+3.6922245,5.402189,East City,Asia
+5.566082,7.4597163,San Field,Asia
+5.4909534,7.224424,Valleyport,Asia
+6.782234,4.4780593,Lake Ridge,Asia
+6.357574,6.1234384,Port Park,Asia
+5.8526244,6.2995577,Lake Valley,Asia
+5.9115896,7.2754645,Parkton,Asia
+5.2519097,7.027928,San River,Asia
+6.6670704,5.352619,Bridgeborough,Asia
+6.273385,7.1987133,Harborford,Asia
+5.749715,5.622431,Forestburg,Asia
+4.647758,5.915394,Port Bay,Asia
+6.0343895,6.7069187,Harborborough,Asia
+10.404502,1.1418191,Bridgeville,North America
+9.294479,-0.6386746,Vistaville,North America
+9.226699,2.0104582,Port Valley,North America
+8.368458,0.8951473,Lake Park,North America
+8.87821,1.2764348,Woodborough,North America
+4.3878794,4.1725745,Lake Wood,North America
+7.4970555,3.3022573,New Field,North America
+9.789814,1.9232403,Beachshire,North America
+10.241325,1.1963054,New Springs,North America
+6.2869596,2.6202848,Fieldville,North America
+8.044028,2.5341706,Cityshire,North America
+8.854653,0.663094,Lake Vista,North America
+9.091692,-0.57828796,San Falls,North America
+8.207744,0.0031298506,East Town,North America
+7.6575737,0.33599973,Lake Falls,North America
+9.251785,1.8866343,Riverborough,North America
+10.156382,1.4217656,Stonehaven,North America
+10.450653,1.0558909,Fallston,North America
+9.67294,0.5491106,East Bridge,North America
+8.773361,1.4875287,San Park,North America
+8.123846,0.6721067,Springsford,North America
+8.380406,0.5230625,Saint City,North America
+5.6079288,3.3096752,Forestport,North America
+9.226818,-0.7738665,North Wood,North America
+8.749962,-0.010629861,Lake River,North America
+10.441634,1.0912852,Fieldburg,North America
+7.711908,-0.062924005,Ridge,North America
+8.095655,0.041945845,Old Forest,North America
+7.8662624,2.9163394,San Town,North America
+6.8886023,3.1314652,Valleyshire,North America
+9.964448,0.97572666,Fieldhaven,North America
+8.368175,2.5819921,South Vista,North America
+9.300318,-0.76346475,Hillport,North America
+6.483282,4.563605,West Wood,North America
+8.660156,0.24461775,Harborville,North America
+7.19469,1.6030895,Townburg,North America
+9.116807,-0.74820507,Forestton,North America
+8.510184,0.7456507,San Bridge,North America
+7.639909,-0.20119905,Gardenland,North America
+8.945185,0.8313423,Vistahaven,North America
+9.400456,2.0430753,Saint Ridge,North America
+8.301318,1.5733167,Valleyton,North America
+9.241301,-0.5412044,Forestland,North America
+9.673151,0.7305785,Lake Springs,North America
+6.497259,2.5128188,Woodton,North America
+9.333313,1.8375905,Cityborough,North America
+8.999963,-0.38746914,Fallsdale,North America
+10.595739,0.7376299,Valley,North America
+9.310088,-0.6851097,Townville,North America
+6.328697,2.978594,Stoneburg,North America
+4.5484796,5.0678415,Saint Point,South America
+4.5368724,5.292861,Woodville,South America
+5.983052,3.1157126,West Ridge,South America
+3.5685027,5.472503,Lake Garden,South America
+5.815576,3.02651,Bridgehaven,South America
+4.6817794,5.4674864,Vistadale,South America
+4.6764183,4.6126924,North Valley,South America
+5.1179047,4.718111,East Park,South America
+4.3752804,4.456116,Gardenville,South America
+4.0006356,4.008599,Port Garden,South America
+5.418448,7.3793206,West Springs,South America
+3.822264,4.1191683,Citydale,South America
+4.0756464,4.782239,Wooddale,South America
+4.571911,4.56849,North Park,South America
+4.7990007,5.5991726,Vistaburg,South America
+5.7724724,3.7840993,Riverport,South America
+4.773581,4.047352,West Garden,South America
+3.617835,5.503782,Stoneford,South America
+5.372274,6.04925,East River,South America
+3.7512913,5.2406926,Fieldland,South America
+4.6422086,3.7458186,Mount Point,South America
+5.18657,4.789401,Cityton,South America
+4.483162,3.863799,Mount Springs,South America
+4.823755,5.271819,Hillshire,South America
+4.7072473,3.5337775,Ridgeborough,South America
+5.595158,5.7715154,Parkford,South America
+5.151052,5.7437477,Beachville,South America
+6.0160995,6.8307424,Old Point,South America
+4.36207,4.451557,Harborton,South America
+4.8746986,5.750223,Valleyland,South America
+4.1175895,4.244134,Gardendale,South America
+4.61857,5.0227013,Saint Town,South America
+4.1780605,3.9448519,Springshaven,South America
+5.1353884,5.949866,Stoneport,South America
+5.789438,5.974168,Saint Stone,South America
+3.8768914,4.104313,San Ridge,South America
+4.682846,4.943271,Old Valley,South America
+4.1008687,3.9190626,Mount River,South America
+3.3060372,5.6420336,New Town,South America
+4.4438014,5.2018523,Mount Town,South America
+1.7272037,5.7498813,Port Town,Africa
+1.7777768,5.8210106,Valleyville,Africa
+2.1948235,5.9802647,Old Bay,Africa
+1.8240936,5.4460773,Springsburg,Africa
+1.3094985,4.5998516,Beachhaven,Africa
+1.5878507,4.9121103,West Harbor,Africa
+1.8131193,5.5397477,Springsshire,Africa
+1.5896189,5.4926744,North Springs,Africa
+2.3155558,5.9270563,New Vista,Africa
+1.5158757,5.6766133,Stoneborough,Africa
+1.2099942,5.683874,North River,Africa
+1.6909196,4.849384,Bayville,Africa
+2.0648441,4.7422223,West City,Africa
+1.3474944,5.779827,East Wood,Africa
+1.952885,5.2520895,Parkburg,Africa
+1.2476014,4.6051974,Old Field,Africa
+1.2185473,4.7034354,Hillford,Africa
+1.251048,5.6435876,Valleyhaven,Africa
+1.387703,4.79969,Fielddale,Africa
+1.3126105,4.717692,Riverdale,Africa
+2.1014028,6.005261,New Valley,Africa
+1.2600816,4.722455,San Hill,Africa
+1.4792606,4.7780256,San Springs,Africa
+1.9488645,5.8004093,Hillborough,Africa
+1.1933582,5.6646023,Ridgeport,Africa
+1.7021948,5.629814,South Bridge,Africa
+1.8048007,5.2713876,New Beach,Africa
+1.8080388,5.043818,Pointville,Africa
+1.7416775,5.7658215,New Bay,Africa
+1.4380096,4.5271077,North Bridge,Africa
+1.1026318,5.449699,Old Town,Africa
+1.3305151,4.5889196,San Forest,Africa
+1.893167,5.1716347,Parkdale,Africa
+2.3786025,5.8952436,New Ridge,Africa
+1.9861637,5.188358,South River,Africa
+9.58317,1.1827464,Springston,Oceania
+7.796344,1.31894,Pointton,Oceania
+7.7109723,0.017581707,South Park,Oceania
+9.586007,1.211191,East Falls,Oceania
+7.6451416,-0.0757689,Old Ridge,Oceania
+10.247604,1.1121571,Fallsford,Oceania
+9.5666685,2.2566223,North Point,Oceania
+9.497378,1.3289967,North Town,Oceania
+9.765337,1.8148367,Valleydale,Oceania
+9.69045,1.6773723,Riverton,Oceania
+7.694373,1.136807,South Point,Oceania
+6.079015,3.0549116,Vistaton,Oceania
+6.045291,2.6428225,Hillburg,Oceania
+8.595164,1.207581,Mount Wood,Oceania
+8.225756,1.3959963,South Bay,Oceania
+7.653844,0.43270257,Fieldshire,Oceania
+7.613082,0.5101423,Gardenshire,Oceania
+8.95413,1.1442136,South Stone,Oceania
+9.804208,0.6613017,Old Beach,Oceania
+9.448039,1.115078,Vistashire,Oceania
+8.976378,2.309384,New Falls,Oceania
+9.063825,-0.034608904,Mount Stone,Oceania
+9.271411,0.4007495,San Stone,Oceania
+7.873934,0.64472836,Bridgeport,Oceania
+9.6470995,1.8628997,Beachdale,Oceania
+8.0147705,1.5267733,New Forest,Oceania
+8.975791,0.38627362,Fallsland,Oceania
+9.239188,2.290643,Ridgeland,Oceania
+5.9602656,2.6278958,Port Forest,Oceania
+7.3070025,1.4511899,West Falls,Oceania
+7.8185472,-0.11508222,Old Harbor,Oceania
+10.206479,1.076276,Ridgehaven,Oceania
+9.6327715,1.1025811,North Field,Oceania
+7.8119035,0.7605931,Bridgeford,Oceania
+8.895958,0.3330989,Townshire,Oceania
