@@ -71,6 +71,14 @@ Un `Dockerfile` est présent à la racine du projet.
 
 Le conteneur permet d’exécuter directement le script de comparaison.
 
+```bash 
+docker build -t dim_red_city .
+```
+
+```bash 
+docker run -p 4000:8080 -t dim_red_city
+```
+
 Repository GitHub : https://github.com/pgassai/projet_final/
 DockerHub : [Lien à insérer]
 
