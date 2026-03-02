@@ -1,0 +1,6 @@
+pandas
+sklearn
+umap-learn
+numpy
+seaborn
+matplotlib
