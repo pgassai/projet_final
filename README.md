@@ -1,5 +1,5 @@
 
-# title: "Projet Final – Réduction de Dimension & Docker"
+# Projet Final – Réduction de Dimension & Docker
 author: "GASSAI-LEPOMA Precy, GIMENEZ Marine, PICAVET Giovanni"
 
 
