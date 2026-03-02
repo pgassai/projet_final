@@ -1,12 +1,7 @@
----
+
 title: "Projet Final – Réduction de Dimension & Docker"
 author: "GASSAI-LEPOMA Precy, GIMENEZ Marine, PICAVET Giovanni"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
----
+
 
 # 📊 Contexte du projet
 
